@@ -1,7 +1,8 @@
 # Etisk hacking, oplæg
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-[slides.md](slides.md)
+[slides.md](slides.md) - eksempel med [retro-cool-term](https://github.com/Swordfish90/cool-retro-term) og [slides](https://github.com/maaslalani/slides).
+![eksempel](slides.png)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
