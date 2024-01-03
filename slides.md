@@ -1,5 +1,5 @@
 ---
-theme: ./test.json
+theme: ./theme.json
 paging: / %d /
 date: DD.MM.YYYY
 ---
